@@ -1,0 +1,4 @@
+1)For loop is used to iterate over each element.Generally used to apply a function over each element over a list or tuple.
+2)While loop is used to run on and on until the condition given on while loop turns to false.
+3)Functools are functions that works with other functions it needs to be imported.
+Following are the 11 functions associated with functools
