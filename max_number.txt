@@ -1,0 +1,11 @@
+1)#recording the 1st element of the list as max number
+#iterating over the loop using num variable comparing the variable everytime with the max number 
+#and the greater number is recorded in max number finally the greater number of the loop gets printed
+
+2)#same as above only the index function is used to iterate
+
+3)#iterrating over the loop using while loop and using index as ind
+
+4)Using built in max function
+
+5)#using functools and lambda function logic used to get the greater number and get the greater value
